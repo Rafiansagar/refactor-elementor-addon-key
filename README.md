@@ -1,6 +1,6 @@
 # Refactor/Migrate elementor addon key
 
-Previews key => Present key.  
+Old key => Current key.  
 Reload once in the dashboard.
 ```php
 function migrate_elementor_widgets_single_site() {
